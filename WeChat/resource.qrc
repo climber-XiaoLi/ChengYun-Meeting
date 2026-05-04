@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/hat.png</file>
+        <file>images/register.png</file>
+        <file>images/tuer.png</file>
+        <file>tx/1.png</file>
+        <file>tx/5.png</file>
+        <file>tx/13.png</file>
+        <file>tx/25.png</file>
+        <file>tx/26.png</file>
+        <file>images/sett.png</file>
+        <file>images/color.png</file>
+        <file>images/cancel.png</file>
+        <file>images/ic_max_huanyuan.png</file>
+        <file>images/ic_max_zuida.png</file>
+        <file>bq/0.png</file>
+        <file>images/orange.png</file>
+        <file>images/orange.ico</file>
+    </qresource>
+</RCC>

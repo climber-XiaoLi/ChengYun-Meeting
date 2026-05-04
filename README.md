@@ -9,9 +9,14 @@
 一款主要依赖C++语言，基于C/S架构开发的实时音视频会议项目，可实现用户注册/登录，短信验证注册，会议房间创建/加入，实时音视频通信、屏幕共享，人脸识别特效，音频降噪（静音检测）。
 
 ------
+## 演示
+![登陆界面](https://github.com/climber-XiaoLi/ChengYun-Meeting/blob/master/5de88c57526b723c4753743b12588ab0.png)
+![用户界面](https://github.com/climber-XiaoLi/ChengYun-Meeting/blob/master/d2a44dfe-8df3-48ea-88af-a463bc298952.png)
+![房间界面](https://github.com/climber-XiaoLi/ChengYun-Meeting/blob/master/d3afecc6a0a882a5d4665dd7051e994f.png)
+![人脸特效](https://github.com/climber-XiaoLi/ChengYun-Meeting/blob/master/6b92afef869bcd0995e3e925ad1efcdf.png)
+![人脸特效](https://github.com/climber-XiaoLi/ChengYun-Meeting/blob/master/bfbb4393fe45bbfed490aeb9fd54ea39.png)
 
-
-
+------
 ## 设计
 
 ### 客户端：
